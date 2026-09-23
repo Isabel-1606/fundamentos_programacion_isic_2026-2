@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+15
+totaldescargado
+3
+0.0
+10
+numarchivo
+1
+0
+9
+1
+23
+totaldescargado < 100.0
+5
+1
+13
+tamanoarchivo
+6
+2
+15
+totaldescargado
+31
+totaldescargado + tamanoarchivo
+10
+numarchivo
+14
+numarchivo + 1
+4
+1
+41
+'avance', totaldescargado,'mb / 100.0 mb'
+11
+4
+1
+40
+'totalacumulado: ', totaldescargado,'mb'
+4
+1
+35
+'Archivos procesados: ', numarchivo
+1
